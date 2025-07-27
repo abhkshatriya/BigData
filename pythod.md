@@ -24,7 +24,7 @@ Explain the difference between shallow copy and deep copy.
 How does the GIL (Global Interpreter Lock) affect Python's multi-threading?
 
 What is the difference between @classmethod, @staticmethod, and instance methods?
-
+Ans : 
 How does Python’s garbage collection work?
 Ans : 
 How would you handle circular imports in large projects?
