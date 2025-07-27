@@ -4,4 +4,3 @@ print("changes from Developer 3")
 print("Hi")
 print("change from developer 4")
 #Hello 
-print("Change from developer 6")
