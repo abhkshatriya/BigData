@@ -12,3 +12,4 @@ print("Line 10 by Dev1")
 =======
 print("Line 10 by Dev 2")
 >>>>>>> 00470acb8b7ec70f87601e987b6ea90aebad7e84
+print("line on GitHub")
